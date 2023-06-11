@@ -1,4 +1,4 @@
-# Uzdevum
+# Uzdevumi
 
 ## JavaScript pamati (mainīgie, datu tipi)
 
@@ -27,7 +27,7 @@
 
 ## Funkcijas
 
-1. Uzraksti funkciju ar nosaukumu "Greeting", kas ņem vārdu kā parametru un izdrukā sveiciena ziņu ar šo
+1. Uzraksti funkciju ar nosaukumu "greeting", kas ņem vārdu kā parametru un izdrukā sveiciena ziņu ar šo
 vārdu. Piemēram, ja vārds ir "Jānis", funkcija izdrukās "Sveiki, Jānis!".
 2. Uzraksti funkciju ar nosaukumu "calculateArea", kas ņem taisnstūra garumu un platumu kā parametrus un atgriež taisnstūra laukumu.
 3. Uzraksti funkciju ar nosaukumu "isOdd", kas ņem skaitli kā parametru un atgriež true, ja tas ir pāra
