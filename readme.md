@@ -15,7 +15,7 @@
 1. Izveido programmu, kas saņem divus skaitļus kā ievadi un aprēķina to summu, izmantojot saskaitīšanas operatoru (+).
 2. Izveido mainīgo ar nosaukumu "num" un piešķir tam vērtību 10. Palielini "num" vērtību par 5, izmantojot piešķiršanas saskaitīšanas operatoru (+=).
 
-## Plūstma (control flow)
+## Plūsma (control flow)
 
 1. Izveido programmu, kas pārbauda, vai dots skaitlis ir pozitīvs, negatīvs vai nulle, izmantojot if-else izteiksmi. Izdrukā "Pozitīvs", ja skaitlis ir lielāks par 0, "Negatīvs", ja tas ir mazāks par 0, un "Nulle", ja tas ir vienāds ar 0.
 2. Izveido programmu, kas pārbauda, vai dots skaitlis dalās ar 3 un 5. Izmanto dalījuma atlikuma operatoru (%), lai noskaidrotu, vai skaitlis dalās.Izdrukā "Dalās" , ja skaitlis dalās un "Nedalās" , ja skaitlis nedalās.
