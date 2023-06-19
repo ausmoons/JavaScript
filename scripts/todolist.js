@@ -1,5 +1,16 @@
 let tasks = [];
 
+/*
+let myName= "myText";
+let myAge = 20;
+myAge = "age";
+let isWorking = true;
+const augli = [20, 'apple', false];
+console.log(augli[2]);
+
+
+ */
+
 function addTask() {
   const taskInput = document.getElementById('taskInput');
   const task = taskInput.value.trim();
