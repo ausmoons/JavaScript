@@ -41,3 +41,4 @@ skaitlis ir pāra.
 
 ## Resursi
 - https://dev.to/scofieldidehen/understanding-dom-manipulation-with-javascript-5073
+- https://dev.to/akashpattnaik/10-secret-tips-that-make-you-a-better-javascript-programmer-16e6
