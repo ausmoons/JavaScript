@@ -35,8 +35,7 @@ skaitlis, un false, ja tas ir nepāra skaitlis. Izmanto dalījuma atlikuma opera
 skaitlis ir pāra.
 4. Uzraksti funkciju ar nosaukumu "calculateSum", kas ņem masīvu ar skaitļiem kā parametru un atgriež to summu.
 5. Uzraksti funkciju, kas pārbauda vai padotais vārds sakrīt ar esošo vārdu.
-6. Uzraksti funkciju, kas pārbauda vai padotais skaitlis ir pozitīvs, negatīvs vai nulle.
-7. Uzraksti funkciju, kurai tiek padots masīvs ar skaitļiem un tā izprintē skaitļu summu. Uzraksti funkciju, kas pārbauda vai sarakstā atrodas konkrēts vārds.
+6. Uzraksti funkciju, kas pārbauda vai sarakstā atrodas konkrēts vārds.
    
 
 ## Resursi
