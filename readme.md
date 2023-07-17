@@ -36,7 +36,13 @@ skaitlis ir pāra.
 4. Uzraksti funkciju ar nosaukumu "calculateSum", kas ņem masīvu ar skaitļiem kā parametru un atgriež to summu.
 5. Uzraksti funkciju, kas pārbauda vai padotais vārds sakrīt ar esošo vārdu.
 6. Uzraksti funkciju, kas pārbauda vai sarakstā atrodas konkrēts vārds.
-   
+
+
+## Todo lists
+- Pielikt klāt funkcionalitāti, lai atzīmētu, ka task ir izpildīts
+- Poga, lai atzīmētu, ka uzdevums ir svarīgs
+- Sakārtot pogu izskatu (lai nav saspiestas visas kreisajā pusē)
+- Pielikt klāt beigu termiņu (deadline)
 
 ## Resursi
 - https://dev.to/scofieldidehen/understanding-dom-manipulation-with-javascript-5073
