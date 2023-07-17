@@ -39,6 +39,7 @@ skaitlis ir pāra.
 
 
 ## Todo lists
+- Notīrīt input lauku pēc taska pievienošanas masīvam
 - Pielikt klāt funkcionalitāti, lai atzīmētu, ka task ir izpildīts
 - Poga, lai atzīmētu, ka uzdevums ir svarīgs
 - Sakārtot pogu izskatu (lai nav saspiestas visas kreisajā pusē)
