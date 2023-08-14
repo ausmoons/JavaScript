@@ -60,8 +60,15 @@ skaitlis ir pāra.
 - Izveido masīvu ar 20 elemntiem (var izmantot loop, random numbers) un sakārto masīva vērtības augošā secībā
 - Izmanto metodi pop un unshift, saproti ko šīs metodes dara.
 
-
 ### Funkcijas
 - Izvedio funkciju, kura pieņem kilogramus, bet atgriež svaru mārciņās;
 - Izveido funkciju, kura pieņem datus C - celsijs, bet agriež F- fārenheits (temperatūra)
 
+### Teksts
+- Izveido stringu ar vairākiem vārdiem ("words words words"), pārvērt stringu masīvā ar stringiem -> ["words", "words", "words"];
+- Izņem no string 3 burtus sākot ar 3.burtu (substring);
+- Izveido funkciju, kura atgriež stringu pretējā kārtībā  -> word -> drow;
+
+## Spēles
+- Kauliņi - izveido spēli, kur uz pogas klikša tiek parādīti 2 cipari no 1 - 6 (kā metamajos kauliņos). Kad poga iek nospiesta atkal, parādi jaunus ciparus;
+- Uzģenērē ciparu un liec lietotājam to minēt. Ja skaitlisir pareizs - pasaki, ka tas tika uzminēts. Ja tas ir par lielu vai mazu, pasaki to. 
