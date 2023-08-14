@@ -49,3 +49,19 @@ skaitlis ir pāra.
 - https://dev.to/scofieldidehen/understanding-dom-manipulation-with-javascript-5073
 - https://dev.to/akashpattnaik/10-secret-tips-that-make-you-a-better-javascript-programmer-16e6
 - https://dev.to/in/101-javascript-concepts-you-need-to-know-59h8
+
+## Papildus
+
+### Masīvi
+- Izveido masīvu, pievieno un izdzēs no masīva elementu jebkurā pozīcijā;
+- Nomaini masīva elementa vērtību uz jaunu vērtību;
+- Atrodi elementa indeksu masīvā;
+- Apvieno diuvus masīvus un izprintē konsolē;
+- Izveido masīvu ar 20 elemntiem (var izmantot loop, random numbers) un sakārto masīva vērtības augošā secībā
+- Izmanto metodi pop un unshift, saproti ko šīs metodes dara.
+
+
+### Funkcijas
+- Izvedio funkciju, kura pieņem kilogramus, bet atgriež svaru mārciņās;
+- Izveido funkciju, kura pieņem datus C - celsijs, bet agriež F- fārenheits (temperatūra)
+
